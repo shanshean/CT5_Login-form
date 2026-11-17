@@ -1,6 +1,6 @@
 # Python Tkinter Login Form
  
-## Python Login Form (Tkinter GUI)
+## Python Login Form
  
 This is a basic graphical login interface built using Python’s built‑in Tkinter library.
 >
