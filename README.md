@@ -15,7 +15,7 @@ Tkinter (usually pre‑installed with Python; no extra installation needed)
 4. Run the script:
  
 bash  
-python login_form.py
+python '''login_form.py'''
  
 #Login Credentials (Hard‑Coded)
  
