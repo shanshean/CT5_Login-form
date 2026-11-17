@@ -3,7 +3,9 @@
 ## Python Login Form (Tkinter GUI)
  
 This is a basic graphical login interface built using Python’s built‑in Tkinter library.
+>
 It accepts a username and password, then checks whether the credentials match the hard‑coded values ( admin  /  12345 ).
+>
 It will pop‑up a message box for either successful login or failed login. The design uses a custom green‑gold color theme.
  
 >Python 3.x
@@ -22,12 +24,7 @@ It will pop‑up a message box for either successful login or failed login. The 
  
 > [View python script](def_function.py)
  
-##Login Credentials (Hard‑Coded)
- 
->Username:  admin 
->
->Password:  12345 
->
+
 
 ##GUI Features
  
@@ -56,3 +53,13 @@ It will pop‑up a message box for either successful login or failed login. The 
 >
 >Subject: CT5
 >
+
+##Login Credentials (Hard‑Coded)
+ 
+>Username:  admin 
+>
+>Password:  12345 
+>
+
+##Screenshots
+https://drive.google.com/drive/folders/13RyLq5V_pbitsyDd9dMXl7TGSwU_-xom
