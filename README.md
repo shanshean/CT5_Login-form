@@ -11,32 +11,48 @@ It will pop‑up a message box for either successful login or failed login. The 
 
 ##How to Run the Program
  
-> 1. Copy the given Python code and save it as  login_form.py 
-> 2. Open your terminal / command prompt
+>1. Copy the given Python code and save it as  login_form.py
+> 
+>2. Open your terminal / command prompt
+>
 >3. Navigate to the folder where you saved the file
+>
 >4. Run the script:
+>
  
 > [View python script](def_function.py)
  
 ##Login Credentials (Hard‑Coded)
  
 >Username:  admin 
+>
 >Password:  12345 
+>
 
 ##GUI Features
  
 >1. Custom background color  #BCCCC1
+>
 >2. Styled title label “USER LOGIN"
+>
 >3. Username input field
+>
 >4. Password input field (masked using '*' )
+>
 >5. Login button
+>
 >6. Pop‑up message box for login success
+>
 >7. Pop‑up error box for wrong username/password
+>
 >8. Fixed‑style font (Courier) with custom text and label colors
+>
  
 ##Developers Information
  
 >Full Name: Sheannen Gleih E. Alerta
+>
 >Course and Year: BS InfoTech (Software Engineering) - 3A
+>
 >Subject: CT5
- 
+>
