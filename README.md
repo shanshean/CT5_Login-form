@@ -24,7 +24,7 @@ Password:  12345 
 
 #GUI Features
  
-1. Custom background color  #BCCCC1 \n
+1. Custom background color  #BCCCC1 /n
 2. Styled title label “USER LOGIN”
 3. Username input field
 4. Password input field (masked using '*' )
