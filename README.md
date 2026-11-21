@@ -11,7 +11,7 @@ It will pop‑up a message box for either successful login or failed login. The 
 >Python 3.x
 >Tkinter (usually pre‑installed with Python; no extra installation needed)
 
-##How to Run the Program
+## How to Run the Program
  
 >1. Copy the given Python code and save it as  login_form.py
 > 
@@ -26,7 +26,7 @@ It will pop‑up a message box for either successful login or failed login. The 
  
 
 
-##GUI Features
+## GUI Features
  
 >1. Custom background color  #BCCCC1
 >
@@ -45,7 +45,7 @@ It will pop‑up a message box for either successful login or failed login. The 
 >8. Fixed‑style font (Courier) with custom text and label colors
 >
  
-##Developers Information
+### Developers Information
  
 >Full Name: Sheannen Gleih E. Alerta
 >
@@ -54,13 +54,13 @@ It will pop‑up a message box for either successful login or failed login. The 
 >Subject: CT5
 >
 
-##Login Credentials (Hard‑Coded)
+### Login Credentials (Hard‑Coded)
  
 >Username:  admin 
 >
 >Password:  12345 
 >
 
-##Screenshots
+### Screenshots
 >
 >https://drive.google.com/drive/folders/13RyLq5V_pbitsyDd9dMXl7TGSwU_-xom
